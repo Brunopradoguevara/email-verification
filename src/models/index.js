@@ -1,4 +1,4 @@
-const EmailCode = require("./EmailCOde");
+const EmailCode = require("./EmailCode");
 const User = require("./User");
 
 
